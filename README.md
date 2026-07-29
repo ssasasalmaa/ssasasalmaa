@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Sasa 👋
 
-<!--
-**ssasasalmaa/ssasasalmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate Information Systems student and Backend Developer passionate about building scalable and maintainable web applications. I enjoy designing RESTful APIs, working with databases, and developing backend systems that are clean, modular, and reliable.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Final-year Information Systems student (Expected Graduation: 2026)
+- 💼 Former Backend Developer Intern at PUSDATIN Kemendiktisaintek
+- 🌱 Currently learning Docker, System Design, and Backend Best Practices
+- 🔍 Looking for Junior Backend Developer / Backend Engineer opportunities
+
+## 💻 Tech Stack
+
+### Backend
+- Node.js
+- Express.js
+- TypeScript
+- REST API
+
+### Database
+- PostgreSQL
+- Prisma ORM
+- MySQL
+
+### Storage & Tools
+- MinIO
+- Git & GitHub
+- Postman
+
+### Architecture
+- Three-Layer Architecture
+- RBAC
+- JWT Authentication
+- Cron Jobs
+
+## 📂 Featured Projects
+
+### 📝 Form Builder Backend
+Backend service for a dynamic Form Builder application.
+
+**Features**
+- Dynamic Form Management
+- Authentication & Authorization (JWT)
+- File Upload with MinIO
+- Cron Job for Temporary File Cleanup
+- PostgreSQL + Prisma
+- RESTful API
+
+---
+
+### 🎓 Thesis Project
+Backend implementation focused on scalable service architecture and API development.
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/ssasasalmaa
+- Email: ssalsabilasalmaa@email.com
