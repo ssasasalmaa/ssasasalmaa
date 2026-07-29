@@ -53,5 +53,5 @@ Backend implementation focused on scalable service architecture and API developm
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/ssasasalmaa
+- LinkedIn: https://linkedin.com/in/ssalsabilasalmaa
 - Email: ssalsabilasalmaa@email.com
